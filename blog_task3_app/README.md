@@ -16,12 +16,13 @@ It extends the **Task 2 Blog Application** by adding **search functionality, pag
 ---
 
 ## 📂 Project Structure
-blog_task3_app/
-├── README.md
-├── db.sql # Database schema
-├── includes/ # Config, auth, header, footer
-├── public/ # Main pages (index, register, login, CRUD)
-└── assets/css/ # Custom styles
+-  blog_task3_app/
+-  ├── README.md
+-  ├── db.sql # Database schema
+-  ├── includes/ # Config, auth, header, footer
+-  ├── public/ # Main pages (index, register, login, CRUD)
+-  └── assets/css/ # Custom styles
+
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone or Download
